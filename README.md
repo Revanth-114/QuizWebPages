@@ -1,3 +1,4 @@
+note: HTML quiz page is freezed due to some technicality in jscript
 
   # Online Trivia Quiz Game
 
