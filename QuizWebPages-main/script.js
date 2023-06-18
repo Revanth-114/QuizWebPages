@@ -1,24 +1,24 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "The correct sequence of HTML tags for starting a webpage is -",
+    answer: "HTML, Head, Title, Body",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Head, Title, HTML, body",
+      "HTML, Body, Title, Head",
+      "HTML, Head, Title, Body",
+      "HTML, Head, Title, Section"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "HTML stands for",
+    answer: "HyperText Markup Language",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "HighText Machine Language",
+      "HyperText and links Markup Language",
+      "HyperText Markup Language",
+      "None of these"
     ]
   },
     {
@@ -34,37 +34,37 @@ let questions = [
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "Which of the following element is responsible for making the text bold in HTML?",
+    answer: "<b>",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "<pre>",
+      "<a>",
+      "<b>",
+      "<br>"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "Which of the following tag is used for inserting the largest heading in HTML?",
+    answer: "<br>",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "<h3>",
+      "<h1>",
+      "<h5>",
+      "<h6>"
     ]
   },
   
 
      {
      numb: 6,
-     question: "Your Question is Here",
-  
+     question: "How to create an unordered list (a list with the list items in bullets) in HTML?",
+     answer: "<ul>,
      options: [
-       "Option 1",
-       "option 2",
-       "option 3",
-       "option 4"
+       "<ul>",
+       "<ol>",
+       "<li>",
+       "<i>"
     ]
    },
 ];
