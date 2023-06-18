@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-commissioner: Commissioner;
+  --font-meera-inimai: "Meera Inimai";
+  --font-rubik: Rubik;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-47xl: 66px;
+  --font-size-sm: 14px;
+  --font-size-21xl: 40px;
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-xs: 12px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #0c2323;
+  --color-gray-200: rgba(0, 0, 0, 0.57);
+  --color-darkslategray-100: #1d4645;
+  --color-darkslategray-200: #333;
+  --color-darkslategray-300: #102f2e;
+  --color-darkslategray-400: rgba(51, 51, 51, 0.5);
+  --color-linen: #fff2e6;
+  --color-peachpuff: #e8c5b0;
+  --color-black: #000;
+  --color-whitesmoke-100: #f2f2f2;
+  --color-whitesmoke-200: #efefef;
+  --color-antiquewhite: #f1d7c8;
+  --color-lightgray-100: #d3d3d3;
+  --color-lightgray-200: #d2d2d2;
+  --color-gainsboro: #dadada;
+  --color-darkslateblue: #131b42;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+  --br-5xs: 8px;
+}
